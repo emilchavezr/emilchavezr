@@ -21,6 +21,6 @@
 ---
 
 ## **Where to Connect**  
-- 💼 **LinkedIn:** [linkedin.com/in/emilchavez](#)    
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/emilchavezr)
 - 🔧 **GitHub Projects:** More coming soon!
 
