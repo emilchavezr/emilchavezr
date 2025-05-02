@@ -1,6 +1,8 @@
 # Emil Chavez  
 
-**Data Analyst | Transitioning into MLOps & Cloud Engineering**    
+**Data Analyst | Transitioning into MLOps & Cloud Engineering**
+
+📍 Dominican Republic
 
 --- 
 
@@ -13,13 +15,24 @@
 ---
 
 ## **Tech Stack & Learning Path**  
-- **Data Analytics:** SQL, Excel, Power BI, Google Data Studio.  
-- **Programming & Data Processing:** Python (Pandas, NumPy), APIs (FastAPI, Flask).  
-- **Databases:** PostgreSQL, MySQL.  
-- **Version Control:** Git, GitHub.  
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Currently Exploring:**
+- ☁️ **AWS & Azure**
+- 🐳 **Docker**
+- 🔁 **CI/CD & MLOps**
+- 🧪 **Model deployment with FastAPI / Flask**
 
 ---
 
 ## **Where to Connect**  
-- 💼 **LinkedIn:** [emilchavezr](https://www.linkedin.com/in/emilchavezr)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilchavezr)
