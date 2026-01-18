@@ -7,9 +7,8 @@
 --- 
 
 ## **About Me**  
-- **Experienced Data Analyst**, now diving into **MLOps & Cloud Computing**.  
-- Passionate about **data automation, scalable AI, and model deployment**.  
-- **Learning AWS, Docker, CI/CD, and Machine Learning Pipelines**.  
+- **Experienced Data Analyst**, now diving into **Data Engineering & Cloud Computing**.  
+- Passionate about **Data World**.  
 - Open to **collaborations and networking in the Data & Cloud space**.  
 
 ---
@@ -24,12 +23,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E3E?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Currently Exploring:**
-- ☁️ **AWS & Azure**
-- 🐳 **Docker**
-- 🔁 **CI/CD & MLOps**
-- 🧪 **Model deployment with FastAPI / Flask**
 
 ---
 
