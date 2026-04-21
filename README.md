@@ -1,13 +1,13 @@
 # Emil Chavez  
 
-**Data Analyst | Transitioning into MLOps & Cloud Engineering**
+**Data Analyst | Data Engineer Associate**
 
 📍 Dominican Republic
 
 --- 
 
 ## **About Me**  
-- **Experienced Data Analyst**, now diving into **Data Engineering & Cloud Computing**.  
+- **Experienced Data Analyst**, diving into **Data Engineering & Cloud Computing**.  
 - Passionate about **Data World**.  
 - Open to **collaborations and networking in the Data & Cloud space**.  
 
